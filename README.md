@@ -25,3 +25,6 @@
     go to path <strong><i>"lib/static/my_urls.dart"</i></strong> and change your localhost and port as that you run in laravel
   </li>
 </ul>
+
+<h2>the result after you add data</h2>
+
