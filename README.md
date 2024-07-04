@@ -27,4 +27,5 @@
 </ul>
 
 <h2>the result after you add data</h2>
-
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-202715.jpg">
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-203106.jpg">
