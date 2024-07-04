@@ -11,10 +11,10 @@
   <li>
     go to your mysql database and create new database called <i>movement_pharmacy</i>
   <li>
-    run the command "php artisan migrate"
+    run the command <strong><i>"php artisan migrate"</i></strong>
   </li>
   <li>
-    run the command <i>php artisan db:seed</i>
+    run the command <i>"php artisan db:seed"</i>
   </li>
  then download flutter-project in the main repository
 </li>
