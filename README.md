@@ -29,3 +29,33 @@
 <h2>the result after you add data</h2>
 <img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-202715.jpg" width="370" height="500">
 <img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-203106.jpg" width="370" height="500">
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204111.jpg" width="370" height="500">
+
+
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204308.jpg" width="370" height="500">
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204331.jpg" width="370" height="500">
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204342.jpg" width="370" height="500">
+
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204415.jpg" width="370" height="500">
+
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204422.jpg" width="370" height="500">
+
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204505.jpg" width="370" height="500">
+
+
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204516.jpg" width="370" height="500">
+
+
+
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204548.jpg" width="370" height="500">
+
+
+
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204604.jpg" width="370" height="500">
+
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204620.jpg" width="370" height="500">
+
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204652.jpg" width="370" height="500">
+
+
+<img src="https://github.com/raslanprogramer/movementpharmacy/blob/main/images/Screenshot_20240704-204702.jpg" width="370" height="500">
